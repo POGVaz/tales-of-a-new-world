@@ -1,0 +1,2 @@
+Um incenso de árvores que crescem embaixo d'água.
+As criaturas que sentirem o aroma do incenso durante um descanso curto pode trocar 1 habilidade, magia, maestria, etc. que seria permitido por sua classe ou outro benefício durante um descanso longo.

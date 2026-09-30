@@ -1,0 +1,2 @@
+Espírito devorador de coragem que habita a [[Cimitarra Sussurrante]].
+Ela é sempre sedenta por coragem e à medida que se alimenta fica mais poderosa e mais imprudente. Ela pode oferecer poderes ao portador em troca de ser alimentada constantemente, mas não é muito confiável.

@@ -1,0 +1,10 @@
+- Comum
+- Comum (sinais)
+- [[Shaarmiak|Shaarmiano]]
+	- Alto
+	- Singelo
+- [[Tengriano]]
+- Llajtês
+- "Orc"
+- Gigante
+- Dracônico

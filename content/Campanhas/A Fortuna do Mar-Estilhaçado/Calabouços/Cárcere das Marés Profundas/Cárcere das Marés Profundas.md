@@ -1,0 +1,1 @@
+Onde [[Inquisidor Vaulk Renner]] está levando [[Brannik Sete-Marcas]] para tentar conseguir levar [[Ventura]].

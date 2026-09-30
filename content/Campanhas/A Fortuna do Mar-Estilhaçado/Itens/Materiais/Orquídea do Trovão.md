@@ -1,0 +1,1 @@
+Um tipo de planta que só cresce no [[Os Jardins Temporãnos]], no [[Pináculo do Trovão]]

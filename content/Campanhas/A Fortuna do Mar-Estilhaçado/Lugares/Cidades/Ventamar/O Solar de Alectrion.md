@@ -1,0 +1,1 @@
+Palácio real da cidade de [[Ventamar]] e moradia oficial da governadora [[Velindra Auraxys]]

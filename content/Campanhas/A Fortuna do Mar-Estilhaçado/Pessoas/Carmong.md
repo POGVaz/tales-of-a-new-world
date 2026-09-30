@@ -1,0 +1,1 @@
+Diabo de espinhos (diabo alado) capturado

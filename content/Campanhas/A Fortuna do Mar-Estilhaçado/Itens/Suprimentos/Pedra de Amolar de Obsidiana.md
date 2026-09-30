@@ -1,0 +1,3 @@
+Uma pedra de amolar feita de Obsidiana, vinda da [[Ilha das Gemas-Pão]].
+
+Ela pode ser consumida durante um descanso curto. Cada criatura participando do descanso pode afiar uma arma cortante ou perfurante sua ou até 10 munições. Até o próximo descanso, ao atacar com uma arma afiada dessa forma e acertar um golpe crítico ou igualando a CA do alvo, o alvo sofre o dano da arma novamente no começo de seu próximo turno.

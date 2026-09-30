@@ -1,0 +1,2 @@
+Taverna esculpida em um dos rochedos de [[Porto-Valente]]. Ela fica em uma das partes menos frequentadas da cidade, mas ao lado de um pequeno porto. Conhecida pela operação de contrabandistas e ladrões.
+Lugar de atuação de [[Anya, a Sereia do Cais]], onde ela tem um escritório privativo.

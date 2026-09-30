@@ -1,0 +1,2 @@
+Uma pequena pérola carregada de luz celestial, ela brilha como uma vela.
+Com uma ação você pode arremessá-la e criar o efeito da magia [Fogo das Fadas](https://5e.tools/spells.html#faerie%20fire_xphb) em um flash de luz.

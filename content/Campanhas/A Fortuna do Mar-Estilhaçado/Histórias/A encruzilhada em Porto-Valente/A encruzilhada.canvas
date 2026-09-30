@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"0ef3b6b0b50266c9","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A encruzilhada em Porto-Valente/A encruzilhada em Porto-Valente.md","x":110,"y":-1080,"width":730,"height":480},
+		{"id":"d80a6ed3e962df16","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A encruzilhada em Porto-Valente/Caminhos Secretos.md","x":1000,"y":-1040,"width":400,"height":400},
+		{"id":"8cc1672f7c455663","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A encruzilhada em Porto-Valente/Um barco manchado de óleo.md","x":-480,"y":-1040,"width":400,"height":400},
+		{"id":"bbe97b18e01dbf7b","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A encruzilhada em Porto-Valente/Ventura Aprisionada.md","x":110,"y":-476,"width":400,"height":400},
+		{"id":"82c22de9f56041e5","type":"text","text":"- [[Ventura Aprisionada]]\n- **Lugar**: [[RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Cárcere das Marés Profundas|Cárcere das Marés Profundas]]\n- **Calabouço**: [[Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Cárcere das Marés Profundas/Cárcere das Marés Profundas|Cárcere das Marés Profundas]]","x":590,"y":-376,"width":250,"height":200,"color":"1"},
+		{"id":"0c9aba4fb08d38de","type":"text","text":"[[Caos na cidade do Condor]]","x":310,"y":-1320,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1567754cc8dbe2a5","fromNode":"bbe97b18e01dbf7b","fromSide":"right","toNode":"82c22de9f56041e5","toSide":"left"},
+		{"id":"ed1d5b293b856f58","fromNode":"0ef3b6b0b50266c9","fromSide":"bottom","toNode":"bbe97b18e01dbf7b","toSide":"top"},
+		{"id":"d65db35c83b48b44","fromNode":"0ef3b6b0b50266c9","fromSide":"left","toNode":"8cc1672f7c455663","toSide":"right"},
+		{"id":"b8d6aba10a467b6d","fromNode":"0ef3b6b0b50266c9","fromSide":"right","toNode":"d80a6ed3e962df16","toSide":"left"},
+		{"id":"eb718d8b2ccdb92d","fromNode":"0ef3b6b0b50266c9","fromSide":"top","toNode":"0c9aba4fb08d38de","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,1 @@
+Porto de difícil acesso financiado pela [[Guilda dos Quatro Ventos]] para abarcar navios piratas.

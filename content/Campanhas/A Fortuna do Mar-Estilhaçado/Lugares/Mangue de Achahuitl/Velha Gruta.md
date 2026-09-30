@@ -1,0 +1,1 @@
+[[A Gruta de Serena]], uma caverna úmida nas margens das [[Fontes Termais]] frequentada por [[Serena do Lodo]] das [[Senhoras da Maré Negra]].

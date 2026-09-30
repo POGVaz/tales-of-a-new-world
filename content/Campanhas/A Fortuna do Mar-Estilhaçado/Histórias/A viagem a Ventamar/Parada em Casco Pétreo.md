@@ -1,0 +1,1 @@
+Param em [[Casco Pétreo]] para reabastecer suas provisões e vender alguns itens.

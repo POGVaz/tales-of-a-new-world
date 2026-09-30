@@ -1,0 +1,7 @@
+[[Arcano, Conhecimento e Forja]]
+[[Morte e Paz]]
+[[Vida, Luz e Crepúsculo]]
+[[Natureza e Tempestade]]
+[[Ordem]]
+[[Guerra]]
+[[Enganação]]

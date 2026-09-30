@@ -1,0 +1,2 @@
+Um frasco com óleo viscoso.
+Com uma ação é possível arremessar o frasco e replicar os efeitos da magia [Graxa](https://5e.tools/spells.html#grease_xphb). Ela se espalha sozinha pelo chão para cobrir a área da magia.

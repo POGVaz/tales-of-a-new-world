@@ -1,0 +1,1 @@
+Onde a madeira é receptada do mangue, procesada e armazenada antes de ser enviada ao [[Estaleiro de Kharum]] em [[Barak-Dumvar]]

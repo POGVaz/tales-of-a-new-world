@@ -1,0 +1,4 @@
+- **Capitão**: [[Baragran Barba-de-Tempestade]]
+- **Timoneira**: [[Ventura|Ysarra Kaelith]], ou **Ventura**
+- **Primeiro Marujo**: [[Tharûn Quebra-Onda]]
+- **Contramestra**: [[Tila Brisa-Curta]]

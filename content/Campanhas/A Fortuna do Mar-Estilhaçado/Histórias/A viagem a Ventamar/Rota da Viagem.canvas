@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"81a6c8901763e3cd","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Parada em Casco Pétreo.md","x":-326,"y":-166,"width":400,"height":400},
+		{"id":"b2dafb421d54bc3c","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Navio partido ao meio.md","x":333,"y":-166,"width":400,"height":400},
+		{"id":"4d2b4e732c1e44fb","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/A noite da chegada.md","x":920,"y":-166,"width":400,"height":400},
+		{"id":"59ff7d96e403553a","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/A passagem por Kalytra.md","x":920,"y":480,"width":400,"height":400},
+		{"id":"0082691995daab8c","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Um dia em Ventamar.md","x":1560,"y":-166,"width":400,"height":400},
+		{"id":"020f96674bb1b141","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/A Expedição às Ilhas de Vidro.md","x":1800,"y":840,"width":400,"height":400},
+		{"id":"81a52b47baf8fae9","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/O Assalto ao Entreposto de Custódia.md","x":2520,"y":600,"width":400,"height":400},
+		{"id":"711ba7eb0791de5e","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/O Caminho para o Navio.md","x":2520,"y":-240,"width":400,"height":400},
+		{"id":"517c9dfcfe8b88ff","x":3120,"y":-880,"width":400,"height":400,"type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/A Lâmina Sussurrante.md"},
+		{"id":"1eb7b6de9c29f1c0","x":3120,"y":280,"width":400,"height":400,"type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Visita a Lorde Vane.md"},
+		{"id":"29ac95ea2d180f97","type":"file","file":"Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/O Dilema das Flores de Feragorn.md","x":3440,"y":-240,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"43fbd555a69e4ff7","fromNode":"81a6c8901763e3cd","fromSide":"right","toNode":"b2dafb421d54bc3c","toSide":"left"},
+		{"id":"510b9df4aa809751","fromNode":"b2dafb421d54bc3c","fromSide":"right","toNode":"4d2b4e732c1e44fb","toSide":"left"},
+		{"id":"9829d8ff6dd72f14","fromNode":"4d2b4e732c1e44fb","fromSide":"right","toNode":"0082691995daab8c","toSide":"left"},
+		{"id":"d73678656ec42a47","fromNode":"0082691995daab8c","fromSide":"right","toNode":"711ba7eb0791de5e","toSide":"left"},
+		{"id":"f3f085a728074f7b","fromNode":"0082691995daab8c","fromSide":"right","toNode":"81a52b47baf8fae9","toSide":"left","color":"1"},
+		{"id":"d7fa1c2d35c874c7","fromNode":"0082691995daab8c","fromSide":"right","toNode":"020f96674bb1b141","toSide":"top","color":"1"},
+		{"id":"2078213419b9503a","fromNode":"711ba7eb0791de5e","fromSide":"right","toNode":"29ac95ea2d180f97","toSide":"left"},
+		{"id":"094cab9fb38655c6","fromNode":"711ba7eb0791de5e","fromSide":"right","toNode":"1eb7b6de9c29f1c0","toSide":"left"},
+		{"id":"c5fd850d33187e19","fromNode":"711ba7eb0791de5e","fromSide":"right","toNode":"517c9dfcfe8b88ff","toSide":"left"}
+	]
+}

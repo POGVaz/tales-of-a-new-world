@@ -1,0 +1,2 @@
+# Resumo
+Com sua cidade-âncora em **Barak-Dumvar**, no continente ao sul, a guilda hospeda o maior dique seco da baía, no monumental **[[Estaleiro de Kharum]]**. Aqui se produzem os navios mais cobiçados deste mar, forjados com minério das montanhas próximas, suas velas são tecidas com a lã das cabras montanhesas e suas proas são feitas das veneráveis árvores do misterioso mangue que margeia a cidade.

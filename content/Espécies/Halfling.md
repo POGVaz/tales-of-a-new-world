@@ -1,0 +1,3 @@
+Halflings, com seus pés duros e cabeludos, são muito apegados a sua casa. A maioria desse povo prefere ficar próximo de seus lares mantendo laços familiares e de comunidade. Devido a esse comportamento um halfling sempre sabe dizer a direção na qual sua casa está, apenas efeitos mágicos conseguem confundir um halfling em qual a direção de seu lar.
+
+Contudo, existem halflings que se aventuram por aí, seja por necessidade ou por preferência, para esses halflings a habilidade de dizer a direção do lar se altera. Um halfling aventureiro, ou meio sangue como os halflings caseiros os chamam, sempre sabe dizer a direção na qual dormiu a última noite. Isso se manifesta de modo menos intenso do que os halflings “normais” mas ainda sim possuem um senso de direção aguçado.

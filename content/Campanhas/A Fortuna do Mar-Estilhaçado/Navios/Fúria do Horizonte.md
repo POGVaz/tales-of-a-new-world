@@ -1,0 +1,1 @@
+Navio de [[Baragran Barba-de-Tempestade]]

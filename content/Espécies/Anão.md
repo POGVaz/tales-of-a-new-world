@@ -1,0 +1,6 @@
+#especie 
+Os anões se orgulham de serem "filhos da terra", um povo que um dia foi matéria inorgânica e transcendeu para uma forma viva. Não se sabe onde ou quando essa história surgiu, mas é algo que virtualmente todos apreciam e cantam sobre. 
+- Um rito de passagem popular em muitas culturas é a adição cirúrgica de pedras preciosas em sua pele, um hábito simbólico que marca um anão permanentemente e o torna mais próximo de sua "verdadeira forma", segundo alguns praticantes. Independente das crenças, é quase universal a estima dessa espécie por metais e gemas.
+- Eles possuem uma cultura de canto. Anões gravam sua história em músicas e cantam sobre heróis, perdas e grandes feitos.
+- As gemas em suas peles sempre estão à mostra no lugar mais visível possível. Cada indivíduo tem seu significado para a pedra escolhida e onde foi implantada.
+- Dizem que em suas veias corre quase ferro puro. Não se sabe se é hipérbole ou lenda, mas fato é que esses indivíduos são muito mais densos e resilientes do que inclusive humanoides maiores que eles.

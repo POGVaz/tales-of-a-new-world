@@ -1,0 +1,5 @@
+[[Sabbar Khelvok]] é enviado para a taverna [[Maré Baixa]] na ilha de [[Ilha de Kalýthra|Kalýthra]] ao encontro de [[Phyrixa Vellum]]. Ele chaga no navio [[Vento de Âmbar]] vindo de [[Luminara]] e quando salta ao cais, é chamado por Phyrixa, que pergunta se ele é Sabbar e se pode provar.
+
+Então, ela o lave para dentro da taverna onde passa sua missão: se infiltrar na tripulação de [[Baragran Barba-de-Tempestade]], um pirata que acaba de chegar ao [[O Mar-Estilhaçado|Mar-Estilhaçado]] em busca de algo poderoso. Ela acredita que ele não está na Baía para saquear e acha que essa é o melhor curso de ação. **Ela é interrompida** recebendo notícias de *outra* chegada infame ao mar ([[Ichaon]], o necromante) e fala para "ficar de olho nele por enquanto".
+
+No dia seguinte Sabbar já deve partir para [[Porto-Valente]] onde vai ter com a contramestra [[Tila Brisa-Curta]] n[[O Ninho do Condor]].

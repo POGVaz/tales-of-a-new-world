@@ -1,0 +1,3 @@
+Um pingente de colar representando um dragão abraçado a uma gema. O material no qual o dragão foi esculpido e a cor da gema mudam conforme o item é usado.
+Ao começo de cada dia pode conceder uma resistência diferente ao portador (mesmo se não for empunhado), porém é necessário saber os versos em dracrônico antigo como forma de escolher. Então o dragão e a gema mudam de cor.
+Cada dragão pode contar os versos que ele souber ou é possível conhecer os versos de algum outro lugar, como uma ruína antiga.
