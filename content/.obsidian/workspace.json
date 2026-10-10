@@ -1,0 +1,330 @@
+{
+  "main": {
+    "id": "f9f71577f73e705e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7449ddcd215a623d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ca0962dd3323a2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/O Mar-Estilhaçado.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "O Mar-Estilhaçado"
+            }
+          },
+          {
+            "id": "f12de09992987b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/À procura do necromante.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "À procura do necromante"
+            }
+          },
+          {
+            "id": "fa07177853310fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Mangue de Achahuitl/Ilha dos Ossos Afogados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ilha dos Ossos Afogados"
+            }
+          },
+          {
+            "id": "931ecf719d78fb89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Vax'Ryllis, o Barão de Enxofre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vax'Ryllis, o Barão de Enxofre"
+            }
+          },
+          {
+            "id": "3b162f7b67652774",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa24b400170d34d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c216177697b7c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5395695e8a7b1d40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e7ce2b3ac042885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "olho de ysmet",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d73fb1a83be5d8fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "b30314ec8c6c4fbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f761ec238ebc2b4",
+        "type": "tabs",
+        "dimension": 59.17553191489362,
+        "children": [
+          {
+            "id": "46e2cc098fb152f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-09-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4fdaa874c32e9777",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Vax'Ryllis, o Hálito de Enxofre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vax'Ryllis, o Hálito de Enxofre"
+            }
+          },
+          {
+            "id": "efe2c4b8ca544bd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59588d6e9c49bc04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "feed0911f53a830d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4f05d99a932d98c",
+        "type": "tabs",
+        "dimension": 40.82446808510639,
+        "children": [
+          {
+            "id": "bad06ef524ea2162",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          },
+          {
+            "id": "fb7f962ba94cf793",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "3b162f7b67652774",
+  "lastOpenFiles": [
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Manto de Besouros.md",
+    "2026-09-11.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Pérola da luz Estrelar.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Vax'Ryllis, o Barão de Enxofre.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Mangue de Achahuitl/Ilha dos Ossos Afogados.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-07.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/À procura do necromante.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Ilha dos Ossos Afogados.md",
+    "Cosmologia/Cosmologia.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Poção de Disfarce e Paralisia.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-08-28.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/A Volta ao salão dos contratos.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Tribo de Homens-Lagarto.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Janjuk.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Ichaon.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Diário de um Renegado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Pingente da Serpente-Dragão.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Grupos/Símbolos/Servos da Serpente-Dragão - Simbolo.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Olho de Ysmethra.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/A Viagem da Neblina Sorridente.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Olho de Ysmetrha.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Bhimzisk.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Lago dos Vagalumes.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/A Investigação do Castelo Afundado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Encontros Aleatórios - Mangue de Achahuitl.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Suprimentos/Pedra de Amolar de Obsidiana.md",
+    "Referência/Magias",
+    "Referência",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Índices",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado.jpg",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/A Tumba de Kathoriom",
+    "Planejamento",
+    "Planejamneto",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Ilha das Lendas Perdidas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (sem nomes).jpg",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Rota da Viagem.canvas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Ilha das Gemas-Pão",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Entreposto de Custódia",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A encruzilhada em Porto-Valente/A encruzilhada.canvas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (interrogação).jpg",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Cárcere das Marés Profundas/Mapa/Untitled.canvas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Untitled.canvas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Casco Petreo.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Pasted image 20251224142850.png",
+    "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Pasted image 20251224142850.png",
+    "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado.jpg",
+    "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (sem nomes).jpg",
+    "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (interrogação).jpg",
+    "RPG/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./Anexos",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-wikilink",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:toggle-bullet-list",
+    "editor:cycle-list-checklist",
+    "editor:insert-link",
+    "editor:paste",
+    "editor:insert-tag",
+    "note-composer:extract-heading",
+    "editor:clear-formatting",
+    "editor:configure-toolbar"
+  ]
+}

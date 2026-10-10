@@ -1,0 +1,552 @@
+{
+  "players": [
+    {
+      "note": "Culcas",
+      "path": "Personagens/Culcas.md",
+      "name": "Culcas",
+      "ac": 12,
+      "hp": 13,
+      "player": true,
+      "level": 3,
+      "modifier": 2
+    },
+    {
+      "note": "Taranis Lauricom",
+      "path": "Personagens/Taranis Lauricom.md",
+      "name": "Taranis Lauricom",
+      "ac": 15,
+      "hp": 23,
+      "player": true,
+      "level": 3,
+      "modifier": 2
+    },
+    {
+      "note": "Sabbar Khelvok",
+      "path": "Personagens/Sabbar Khelvok.md",
+      "name": "Sabbar Khelvok",
+      "ac": 18,
+      "hp": 30,
+      "player": true,
+      "level": 3,
+      "modifier": 2
+    },
+    {
+      "note": "Gurum Escamarela",
+      "path": "Personagens/Gurum Escamarela.md",
+      "name": "Gurum Escamarela",
+      "ac": 18,
+      "hp": 20,
+      "player": true,
+      "level": 3,
+      "modifier": 2
+    },
+    {
+      "note": "Molokh",
+      "path": "Personagens/Molokh.md",
+      "name": "Molokh",
+      "hp": 30,
+      "ac": 12,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "A Fortuna do Mar-Estilhaçado",
+      "players": [
+        "Culcas",
+        "Taranis Lauricom",
+        "Sabbar Khelvok",
+        "Gurum Escamarela"
+      ]
+    }
+  ],
+  "defaultParty": "A Fortuna do Mar-Estilhaçado",
+  "statuses": [
+    {
+      "name": "Blinded",
+      "id": "Blinded",
+      "description": "A blinded creature can’t see and automatically fails any ability check that requires sight.\nAttack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage."
+    },
+    {
+      "name": "Charmed",
+      "id": "Charmed",
+      "description": "A charmed creature can’t Attack the charmer or target the charmer with harmful Abilities or magical Effects.\nThe charmer has advantage on any ability check to interact socially with the creature."
+    },
+    {
+      "name": "Concentrating",
+      "id": "Concentrating",
+      "description": "Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.\nA creature loses concentration when: it casts another spell that requires concentration, is incapacitated, or dies.\nWhen a creature takes damage, it must make a constitution saving throw with a DC of 10 or half the damage it took, whichever is higher. On a failure, concentration is lost."
+    },
+    {
+      "name": "Deafened",
+      "id": "Deafened",
+      "description": "A deafened creature can’t hear and automatically fails any ability check that requires hearing."
+    },
+    {
+      "name": "Frightened",
+      "id": "Frightened",
+      "description": "A frightened creature has disadvantage on Ability Checks and Attack rolls while the source of its fear is within Line of Sight.\nThe creature can’t willingly move closer to the source of its fear."
+    },
+    {
+      "name": "Grappled",
+      "id": "Grappled",
+      "description": "A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.\nThe condition ends if the Grappler is incapacitated.\nThe condition also ends if an Effect removes the grappled creature from the reach of the Grappler or Grappling Effect, such as when a creature is hurled away by the Thunderwave spell."
+    },
+    {
+      "name": "Incapacitated",
+      "id": "Incapacitated",
+      "description": "An incapacitated creature can’t take Actions or Reactions."
+    },
+    {
+      "name": "Invisible",
+      "id": "Invisible",
+      "description": "An invisible creature is impossible to see without the aid of magic or a Special sense. For the Purpose of Hiding, the creature is heavily obscured. The creature’s Location can be detected by any noise it makes or any tracks it leaves.\nAttack rolls against the creature have disadvantage, and the creature’s Attack rolls have advantage."
+    },
+    {
+      "name": "Paralyzed",
+      "id": "Paralyzed",
+      "description": "A paralyzed creature is incapacitated and can’t move or speak.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage.\nAny Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
+    },
+    {
+      "name": "Petrified",
+      "id": "Petrified",
+      "description": "A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.\nThe creature is incapacitated, can’t move or speak, and is unaware of its surroundings.\nAttack rolls against the creature have advantage.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nThe creature has Resistance to all damage.\nThe creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized."
+    },
+    {
+      "name": "Poisoned",
+      "id": "Poisoned",
+      "description": "A poisoned creature has disadvantage on Attack rolls and Ability Checks."
+    },
+    {
+      "name": "Prone",
+      "id": "Prone",
+      "description": "A prone creature’s only Movement option is to crawl, unless it stands up and thereby ends the condition.\nThe creature has disadvantage on Attack rolls.\nAn Attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the Attack roll has disadvantage."
+    },
+    {
+      "name": "Reacted",
+      "id": "Reacted",
+      "description": "A creature, unless otherwise specified, gets one reaction per round of combat.\nA reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.\nA reaction can be spent to make an opportunity attack, do a readied action, or use an ability that requires a reaction.\nA creature that has already reacted cannot use a reaction until the start of its turn."
+    },
+    {
+      "name": "Restrained",
+      "id": "Restrained",
+      "description": "A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.\nAttack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage.\nThe creature has disadvantage on Dexterity Saving Throws."
+    },
+    {
+      "name": "Stunned",
+      "id": "Stunned",
+      "description": "A stunned creature is incapacitated, can’t move, and can speak only falteringly.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage."
+    },
+    {
+      "name": "Unconscious",
+      "id": "Unconscious",
+      "description": "An unconscious creature is incapacitated, can’t move or speak, and is unaware of its surroundings.\nThe creature drops whatever it’s holding and falls prone.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage.\nAny Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
+    }
+  ],
+  "unconsciousId": "Unconscious",
+  "version": [
+    13,
+    0,
+    18
+  ],
+  "canUseDiceRoll": false,
+  "preferStatblockLink": false,
+  "initiative": "1d20 + %mod%",
+  "modifier": null,
+  "sync": true,
+  "playerMarker": "default",
+  "monsterMarker": "default",
+  "state": {
+    "creatures": [
+      {
+        "name": "Culcas",
+        "initiative": 19,
+        "static": false,
+        "modifier": 2,
+        "hp": 13,
+        "currentMaxHP": 13,
+        "ac": 12,
+        "currentAC": 12,
+        "note": "Culcas",
+        "path": "Personagens/Culcas.md",
+        "id": "ID_4b6999295959",
+        "currentHP": 8,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Taranis Lauricom",
+        "initiative": 7,
+        "static": false,
+        "modifier": 2,
+        "hp": 23,
+        "currentMaxHP": 23,
+        "ac": 15,
+        "currentAC": 15,
+        "note": "Taranis Lauricom",
+        "path": "Personagens/Taranis Lauricom.md",
+        "id": "ID_f9caaa3b193a",
+        "currentHP": 2,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Sabbar Khelvok",
+        "initiative": 8,
+        "static": false,
+        "modifier": 2,
+        "hp": 30,
+        "currentMaxHP": 30,
+        "ac": 18,
+        "currentAC": 18,
+        "note": "Sabbar Khelvok",
+        "path": "Personagens/Sabbar Khelvok.md",
+        "id": "ID_39e82a9b7928",
+        "currentHP": 15,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Gurum Escamarela",
+        "initiative": 6,
+        "static": false,
+        "modifier": 2,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": 18,
+        "currentAC": 18,
+        "note": "Gurum Escamarela",
+        "path": "Personagens/Gurum Escamarela.md",
+        "id": "ID_7b9a687bd8f8",
+        "currentHP": 12,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Sahuagin",
+        "initiative": 12,
+        "static": false,
+        "modifier": 0,
+        "hp": 22,
+        "currentMaxHP": 22,
+        "cr": "1/2",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_9b78ab5839f9",
+        "currentHP": 22,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "4d8 + 4",
+        "rollHP": false
+      },
+      {
+        "name": "Sahuagin",
+        "initiative": 10,
+        "static": false,
+        "modifier": 0,
+        "hp": 22,
+        "currentMaxHP": 22,
+        "cr": "1/2",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_38687bd9b889",
+        "currentHP": 22,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "4d8 + 4",
+        "rollHP": false
+      },
+      {
+        "name": "Sahuagin",
+        "initiative": 11,
+        "static": false,
+        "modifier": 0,
+        "hp": 22,
+        "currentMaxHP": 22,
+        "cr": "1/2",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_cb99896ba958",
+        "currentHP": 22,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "4d8 + 4",
+        "rollHP": false
+      },
+      {
+        "name": "Hunter Shark",
+        "initiative": 12,
+        "static": false,
+        "modifier": 1,
+        "hp": 45,
+        "currentMaxHP": 45,
+        "cr": "2",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_18b8cbc808ba",
+        "currentHP": 45,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "6d10 + 12",
+        "rollHP": false
+      },
+      {
+        "name": "Hunter Shark",
+        "initiative": 10,
+        "static": false,
+        "modifier": 1,
+        "hp": 45,
+        "currentMaxHP": 45,
+        "cr": "2",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_bb7b5a29895a",
+        "currentHP": 37,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "6d10 + 12",
+        "rollHP": false
+      },
+      {
+        "name": "Hunter Shark",
+        "initiative": 11,
+        "static": false,
+        "modifier": 1,
+        "hp": 45,
+        "currentMaxHP": 45,
+        "cr": "2",
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_f8c849ca094b",
+        "currentHP": 45,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "6d10 + 12",
+        "rollHP": false
+      }
+    ],
+    "state": false,
+    "name": "Encounter",
+    "round": 1,
+    "logFile": "",
+    "rollHP": false
+  },
+  "condense": false,
+  "clamp": true,
+  "autoStatus": true,
+  "beginnerTips": true,
+  "displayDifficulty": false,
+  "encounters": {},
+  "warnedAboutImports": false,
+  "openState": {
+    "battle": true,
+    "party": true,
+    "status": false,
+    "plugin": true,
+    "player": true,
+    "builder": true
+  },
+  "hpOverflow": "ignore",
+  "additiveTemp": false,
+  "rpgSystem": "dnd5e",
+  "logging": false,
+  "logFolder": "/",
+  "resolveTies": "playerFirst",
+  "useLegacy": false,
+  "diplayPlayerHPValues": false,
+  "rollHP": false,
+  "descending": true,
+  "builder": {
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "large",
+            "medium",
+            "huge",
+            "gargantuan",
+            "small",
+            "tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "humanoid",
+            "dragon",
+            "undead",
+            "elemental",
+            "monstrosity",
+            "construct",
+            "beast",
+            "plant",
+            "fiend",
+            "ooze",
+            "fey",
+            "giant",
+            "celestial",
+            "swarm of tiny beasts"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "lawful evil",
+            "any alignment",
+            "chaotic evil",
+            "chaotic good",
+            "lawful good",
+            "neutral",
+            "lawful neutral",
+            "unaligned",
+            "any non-good alignment",
+            "any non-lawful alignment",
+            "neutral evil",
+            "any chaotic alignment",
+            "neutral good",
+            "chaotic neutral",
+            "neutral good (50%) or neutral evil (50%)",
+            "any evil alignment"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rollPlayerInitiatives": 2
+}

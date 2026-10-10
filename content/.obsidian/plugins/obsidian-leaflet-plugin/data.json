@@ -1,0 +1,370 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "locked": false,
+      "lastAccessed": 1780882740073,
+      "markers": [
+        {
+          "id": "ID_dba93b8a0bf9",
+          "type": "default",
+          "loc": [
+            -2.1181640625,
+            0.728515625
+          ],
+          "link": "Porto-Valente",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.18212890625,
+            0.7060546875
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9adbe8abfa9b",
+          "type": "default",
+          "loc": [
+            -1.3603515625,
+            2.04296875
+          ],
+          "link": "Ilha de Kalýthra",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5107421875,
+            0.4534505208333333
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e86a4a399928",
+          "type": "default",
+          "loc": [
+            -1.2234649658203125,
+            2.1142578125
+          ],
+          "link": "Três Vinhedos",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_790b9bf8fa7b",
+          "type": "default",
+          "loc": [
+            -1.59698486328125,
+            1.47265625
+          ],
+          "link": "Casco Pétreo",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c86b7be82b3b",
+          "type": "default",
+          "loc": [
+            -0.980133056640625,
+            1.16015625
+          ],
+          "link": "Luminara",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb29c999d848",
+          "type": "default",
+          "loc": [
+            -1.33526611328125,
+            2.7890625
+          ],
+          "link": "Ventamar",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38b8b9cbbb68",
+          "type": "default",
+          "loc": [
+            -1.0086212158203125,
+            3.572265625
+          ],
+          "link": "Enseada do Mastro Quebrado",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99fbdbaa4a89",
+          "type": "default",
+          "loc": [
+            -2.2537384033203125,
+            1.24609375
+          ],
+          "link": "Ruínas da Ilha Negra",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aafb0b2beb7a",
+          "type": "default",
+          "loc": [
+            -2.2879180908203125,
+            1.3505859375
+          ],
+          "link": "Rochedo de Salmorra",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9f85bebf82a",
+          "type": "default",
+          "loc": [
+            -2.7859649658203125,
+            3.5869140625
+          ],
+          "link": "Barak-Dumvar",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb087b5b9b6b",
+          "type": "default",
+          "loc": [
+            -2.6970977783203125,
+            0.6591796875
+          ],
+          "link": "Covil de Baragran",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38ca485a8b98",
+          "type": "default",
+          "loc": [
+            -0.347320556640625,
+            1.6953125
+          ],
+          "link": "Talmaris",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_887b49ab0ada",
+          "type": "default",
+          "loc": [
+            -2.6377716064453125,
+            2.41845703125
+          ],
+          "link": "Farol-Tumba de Eupharanor",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb9b693838d8",
+          "type": "default",
+          "loc": [
+            -2.4063262939453125,
+            2.39306640625
+          ],
+          "link": "Ilha das Lendas Perdidas",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_681b1b68aaf8",
+          "type": "default",
+          "loc": [
+            -2.4063262939453125,
+            3.86181640625
+          ],
+          "link": "Porto do Remanso",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9eb49b8d948",
+          "type": "default",
+          "loc": [
+            -2.4287872314453125,
+            3.94970703125
+          ],
+          "link": "Mangue de Achahuitl",
+          "layer": "%5B%5BMar%20Estilha%C3%A7ado.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/O Mar-Estilhaçado.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Mar Estilhaçado.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Mar Estilhaçado.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

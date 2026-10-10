@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1741655569191,
+      "path": "Notas"
+    },
+    {
+      "type": "group",
+      "ctime": 1779707283882,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1779707317204,
+          "path": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/O Dilema das Flores de Feragorn.md",
+          "title": "Saída do Pináculo do Trovão "
+        },
+        {
+          "type": "file",
+          "ctime": 1779930085910,
+          "path": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Visita a Lorde Vane.md"
+        },
+        {
+          "type": "group",
+          "ctime": 1779930099614,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1779929802882,
+              "path": "Campanhas/A Fortuna do Mar-Estilhaçado/Navios/Brisa da Alvorada.md"
+            }
+          ],
+          "title": "Referências"
+        },
+        {
+          "type": "file",
+          "ctime": 1780239084885,
+          "path": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/A Volta ao salão dos contratos.md"
+        }
+      ],
+      "title": "Sessão 31/05 - Saída de Ventamar"
+    },
+    {
+      "type": "group",
+      "ctime": 1779831244490,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1779929397309,
+          "path": "Personagens/Gurum Escamarela.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1779929431645,
+          "path": "Personagens/Taranis Lauricom.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1779929443085,
+          "path": "Personagens/Sabbar Khelvok.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1779929460549,
+          "path": "Personagens/Culcas.md"
+        }
+      ],
+      "title": "Personagens"
+    },
+    {
+      "type": "group",
+      "ctime": 1780442865558,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1780527715549,
+          "path": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/A passagem por Kalytra.md",
+          "title": "A saída de Kalythra"
+        }
+      ],
+      "title": "Sessão 03/06 - Chegada nos pântanos"
+    }
+  ]
+}
