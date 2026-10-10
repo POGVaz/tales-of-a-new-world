@@ -1,3 +1,7 @@
+---
+aliases:
+  - Baragran
+---
 #pessoa
 Anão
 Senhor Pirata
@@ -9,4 +13,4 @@ Um velho anão de barba e cabelos grisalhos que teve sua boa parte de aventuras 
 ## Cachimbo
 Um adornado cachimbo de madeira nobre, adornado de metal. Seus materiais são exóticos para estas paragens. Foi um presente de [[]] saqueado há tempos.
 ## Gato de nove caudas
-Um chicote usado para açoitar marinheiros. Deixado para trás e pedido de [[]]
+Um chicote usado para açoitar marinheiros. Deixado para trás e pedido de [[Tharûn Quebra-Onda]], seu **Primeiro Oficial**

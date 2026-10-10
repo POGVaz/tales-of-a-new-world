@@ -9,3 +9,19 @@ Depois de juntarem aliados:
 - Uma Acidomante guardando o tesouro
 - Mortos-vivos antigos despertando (antigos campos de batalha e arredores do castelo)
 - Mortos recentes despertando.
+
+# Resolução
+[[Ubiraci, a Mãe dos Caranguejos]] mantém a sua parte do acordo e recolhe tanto o Crânio de [[Xylanthra]] quanto o de [[Vax'Ryllis, o Barão de Enxofre|Vax'Ryllis]].
+## Recompensa
+- Na pilha de tesouros
+> [!tip]- Recompensa
+> - [[Olho de Ysmethra]]
+> - 
+> - [[Coroa do Conquistador de Achahuitl]]
+> - PO
+
+- As [[Senhoras da Maré Negra]] concedem passagem segura para a [[Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Ilha dos Ossos Afogados|Ilha dos Ossos Afogados]].
+- Na [[Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Ilha dos Ossos Afogados|Ilha dos Ossos Afogados]]
+> [!tip]- Recompensa
+> - Odre de Água do Poço Central
+> - [[Manto de Besouros]]
