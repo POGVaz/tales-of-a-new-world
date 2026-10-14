@@ -5,9 +5,8 @@ Após recuperarem o [[Olho de Ysmethra]] e a água do Poço da [[Campanhas/A For
 
 Para conseguir resposta eles precisam ajudar [[Baragran Barba-de-Tempestade]] revivendo suas memórias e garantindo os acontecimentos da vida do pirata.
 
-No início de cada cena, sua voz narra os acontecimentos como teriam sido. [[Os aventureiros do Mar-Estilhaçado]] devem incorporar os personagens aliados de [[Baragran Barba-de-Tempestade|Baragran]] e garantir os acontecimentos.
-
-### Memórias
+No início de cada cena, sua voz narra os acontecimentos como teriam sido. [[Os aventureiros do Mar-Estilhaçado]] devem incorporar os personagens aliados de [[Baragran Barba-de-Tempestade|Baragran]] e garantir os acontecimentos. Todos os acontecimentos ocorrem no [[Limbo]], para onde a alma do pirata foi.
+### Memórias (ideias)
 - Assalto à casa de sua família e fuga com piratas
 	- 10 anos?
 - Negociação tensa em alto-mar
@@ -36,20 +35,41 @@ Cenas desconexas sobre sua infância. Como era um jovem de uma família com poss
 Sempre teve sonhos estranhos e suas pais não viram muito futuro nele.
 - Irmão mais velho já maduro e fora de casa
 - irmã mais nova, protegida pelos pais
-Ele mesmo ignorado é sem esperança de futuro
+Ele mesmo ignorado é sem esperança de futuro.
 Boatos de uma invasão [[Shaarmiak|Shaarmiana]] no horizonte.
 
 > Nasci nos tempos do Império. Filho do meio de uma família de terras e dívidas.
-> Entre as principais posses, meus tinham uma mina de sal e seus três filhos.
-> 
-### Cena principal
+> Entre as principais posses, meus tinham uma mina de sal e seus três filhos. Mas nem essa família no meio da hierarquia [[Llajtetl|Llajtês]] escapava a sede de conquista do Império[[Shaarmiak|Shaarmiano]]. Eles comiam pelas beiradas explorando nosso senso de competição a seu favor.
+> O dia chegara em que o
+> [[Irmão mais velho de Baragran]] já era um homem feito, capitaneaba um navio mercante e estava longe de casa.
+> [[Irmã mais nova de Baragran]] era a protegida, para quem havia recursos pra mandar para o templo de [[Ordem|Talmoran]] onde podia se proteger.
+> Mas para mim não havia recursos 
 
+[[Baragran Barba-de-Tempestade|Baragran]] criança espia seus pais discutindo. Seu pai fala que o arranjo do navio é para os dois e o último recurso que sobrou.
+
+> E não fale nada dos sonhos do garoto, sabe como os marinheiros são supersticiosos.
+### Cena principal
+A casa deles é cercada e incendiada por assaltantes de rivais de [[Llajtetl]] e invasores de [[Shaarmiak]]. [[Baragran Barba-de-Tempestade|Baragran]] criança e sua mãe fogem em uma carroça enquanto sei pai e seus guardas defendem a casa.
+Seu objetivo é 
+#### Encontro
+- Conquistador Shaarmiana (Capitão, conjurador) em um cavalo de guerra
+- Guarda-Costas (Sheng biao) em um cavalo de guerra
+- 2 x Pares de Mercenários [[Llajtetl|Llajtês]] (2 bodes de guerra, condutor com lança e passageiro com besta)
+#### Mecânica
+Quem for o condutor, na sua rodada pode usar uma ação bônus e fazer um teste de Destreza (Ligar com animais ou Condução). Superando CD 10 é possível manter a carroça no caminho. Além disso é possível causar algum efeito, como tentar derrubar um passageiro ou mover ela na estrada.
+E necessário 3 rodadas mantendo a carroça no caminho com sucesso para chegar ao navio.
 ## Fugas paralelas
 Um jovem [[Baragran Barba-de-Tempestade|Baragran]] está preso em um castelo em território que será [[Confederação de Tengrisfeld|Tengrisfeld]], mas ainda está sob domínio [[Shaarmiak|Shaarmiano]].
 
-[[Tila Brisa-Curta]] também está presa neste local anos depois, agora independente.
-## Negociação Tensa
-[[Baragran Barba-de-Tempestade|Baragran]] vem negociar com outro senhor pirata em alto mar. Ele traz consigo baús de tesouro e um dragão aprisionado. Ele quer informações.
+[[Tila Brisa-Curta]] também está presa neste local anos depois, agora uma prisão independente do império, sob o domínio da [[Ordem]] de [[Ordem|Talmoran]], no início de [[Inquisidores das Marés|Inquisição das Marés]].
+#### Mecânica
+As duas fugas acontecem em tempos diferentes no mesmo local, o pátio/cais/parte de uma prisão. É possível usar uma ação bônus para alternar entre os dois momentos.
 
+O objetivo é salvar tanto jovem [[Baragran Barba-de-Tempestade|Baragran]] no passado quanto [[Tila Brisa-Curta|Tila]] no futuro.
+## Negociações em Alto-Mar
+[[Baragran Barba-de-Tempestade|Baragran]] vem negociar com outro senhor pirata em alto mar, um Rakshasa disfarçado. Ele traz consigo baús de tesouro e um dragão aprisionado. Ele quer informações sobre a fonte de seus sonhos. Ele revela que fez um pacto com o dragão, que finge estar preso.
+
+#### Mecânica
+O senhor pirata tem uma paciência limitada. Baragran parece concentrado em outra coisa. 
 # Resolução 
 Sua recompensa depende das cenas que conseguiram resolver com sucesso.
