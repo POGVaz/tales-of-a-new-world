@@ -50,11 +50,14 @@ Boatos de uma invasão [[Shaarmiak|Shaarmiana]] no horizonte.
 > E não fale nada dos sonhos do garoto, sabe como os marinheiros são supersticiosos.
 ### Cena principal
 A casa deles é cercada e incendiada por assaltantes de rivais de [[Llajtetl]] e invasores de [[Shaarmiak]]. [[Baragran Barba-de-Tempestade|Baragran]] criança e sua mãe fogem em uma carroça enquanto sei pai e seus guardas defendem a casa.
-Seu objetivo é 
+Seu objetivo é chegar ao navio negociado por sua família.
 #### Encontro
-- Conquistador Shaarmiana (Capitão, conjurador) em um cavalo de guerra
+- Conquistador Shaarmiano (Capitão, conjurador) em um cavalo de guerra
+	- ![[Pasted image 20261013232521.png]]
 - Guarda-Costas (Sheng biao) em um cavalo de guerra
-- 2 x Pares de Mercenários [[Llajtetl|Llajtês]] (2 bodes de guerra, condutor com lança e passageiro com besta)
+	- ![[Pasted image 20261013233056.png]]
+- 2 x Pares de Mercenários [[Llajtetl|Llajtês]] (2 bodes de guerra, condutor com lança e passageiro com besta) - Pack tactics enquanto estiverem montados juntos
+	- ![[Pasted image 20261013233401.png]]
 #### Mecânica
 Quem for o condutor, na sua rodada pode usar uma ação bônus e fazer um teste de Destreza (Ligar com animais ou Condução). Superando CD 10 é possível manter a carroça no caminho. Além disso é possível causar algum efeito, como tentar derrubar um passageiro ou mover ela na estrada.
 E necessário 3 rodadas mantendo a carroça no caminho com sucesso para chegar ao navio.

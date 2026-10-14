@@ -24,59 +24,21 @@
             }
           },
           {
-            "id": "f12de09992987b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/À procura do necromante.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "À procura do necromante"
-            }
-          },
-          {
-            "id": "fa07177853310fe3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Mangue de Achahuitl/Ilha dos Ossos Afogados.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ilha dos Ossos Afogados"
-            }
-          },
-          {
-            "id": "931ecf719d78fb89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Vax'Ryllis, o Barão de Enxofre.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vax'Ryllis, o Barão de Enxofre"
-            }
-          },
-          {
             "id": "3b162f7b67652774",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sonhos de um Pirata Morto"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,6 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,6 +176,16 @@
           },
           {
             "id": "feed0911f53a830d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "d34aad03cbd54200",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -234,8 +207,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "skull",
-              "title": "Combatant"
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
             }
           },
           {
@@ -244,8 +217,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-creature-view"
             }
           }
         ],
@@ -275,6 +248,10 @@
   },
   "active": "3b162f7b67652774",
   "lastOpenFiles": [
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261013233401.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261013233056.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261013232521.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Manto de Besouros.md",
     "2026-09-11.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Pérola da luz Estrelar.md",
@@ -301,7 +278,6 @@
     "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Lago dos Vagalumes.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/A Investigação do Castelo Afundado.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Encontros Aleatórios - Mangue de Achahuitl.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Suprimentos/Pedra de Amolar de Obsidiana.md",
     "Referência/Magias",
     "Referência",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl",
@@ -314,7 +290,6 @@
     "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (sem nomes).jpg",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Rota da Viagem.canvas",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Ilha das Gemas-Pão",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Entreposto de Custódia",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A encruzilhada em Porto-Valente/A encruzilhada.canvas",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (interrogação).jpg",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Cárcere das Marés Profundas/Mapa/Untitled.canvas",
@@ -323,8 +298,6 @@
     "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Pasted image 20251224142850.png",
     "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Pasted image 20251224142850.png",
     "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado.jpg",
-    "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (sem nomes).jpg",
-    "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (interrogação).jpg",
     "RPG/Untitled.canvas"
   ]
 }
