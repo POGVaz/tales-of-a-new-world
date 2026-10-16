@@ -16,9 +16,16 @@ Depois de juntarem aliados:
 - Na pilha de tesouros
 > [!tip]- Recompensa
 > - [[Olho de Ysmethra]]
-> - 
-> - [[Coroa do Conquistador de Achahuitl]]
-> - PO
+> - **Tesouro**:
+> 	- 2600 PC (26 PO)
+> 	- 500 PP (50 PO)
+> 	- 70 PO
+> - **4 Obras de Arte**
+> 	- [[Coroa do Conquistador de Achahuitl]] (25 PO)
+> - **4 Itens Mágicos**
+> 	- [[Cinto de Facas-Feitiço]]
+> 	- [[Manto de Besouros]]
+> 
 
 - As [[Senhoras da Maré Negra]] concedem passagem segura para a [[Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Ilha dos Ossos Afogados|Ilha dos Ossos Afogados]].
 - Na [[Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Ilha dos Ossos Afogados|Ilha dos Ossos Afogados]]
