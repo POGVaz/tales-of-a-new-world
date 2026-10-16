@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Prahasta Agni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sonhos de um Pirata Morto"
+              "title": "Prahasta Agni"
             }
           },
           {
@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Tharûn Quebra-Onda.md",
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/A Fortuna do Mar-Estilhaçado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tharûn Quebra-Onda"
+              "title": "A Fortuna do Mar-Estilhaçado"
             }
           }
         ]
@@ -129,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Prahasta Agni.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Prahasta Agni.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -212,13 +212,16 @@
   },
   "active": "27a9a86dc725a94e",
   "lastOpenFiles": [
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Prahasta Agni.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Darius Corvamar.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/A Fortuna do Mar-Estilhaçado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Tharûn Quebra-Onda.md",
     "Cosmologia/Planos de Existência/Limbo.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/À procura do necromante.md",
     "Cosmologia/Planos de Existência",
     "Discussões/Cosmologia.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Tharûn Quebra-Onda.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Grupos/Tripulação de Baragran.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Segredos Submersos/Segredos Submersos.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Segredos Submersos/Korrum Casco-Lascado.md",
@@ -237,9 +240,6 @@
     "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Documentos",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Janjuk.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Zaejin Mistura-Fina.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Pérola da luz Estrelar.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Ilha dos Ossos Afogados.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/O Castelo Afundado de Tletozuma",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/A Gruta de Serena",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Imagens",
