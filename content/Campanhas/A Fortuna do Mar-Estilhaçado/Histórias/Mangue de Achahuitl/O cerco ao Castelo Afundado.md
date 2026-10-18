@@ -25,6 +25,9 @@ Depois de juntarem aliados:
 > - **4 Itens Mágicos**
 > 	- [[Cinto de Facas-Feitiço]]
 > 	- [[Manto de Besouros]]
+> 	- Gema Mágica (Quartzo)
+> 		- levitate
+> 	- Pergaminho da proteção (Fadas)
 > 
 
 - As [[Senhoras da Maré Negra]] concedem passagem segura para a [[Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Ilha dos Ossos Afogados|Ilha dos Ossos Afogados]].

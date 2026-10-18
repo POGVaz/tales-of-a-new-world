@@ -86,9 +86,16 @@ Os personagens podem incorporar qualquer aliado por ordem de iniciativa, mas nã
 As duas fugas acontecem em tempos diferentes no mesmo local, o pátio/cais/parte de uma prisão. É possível usar uma ação bônus para alternar entre os dois momentos.
 
 O objetivo é salvar tanto jovem [[Baragran Barba-de-Tempestade|Baragran]] no passado quanto [[Tila Brisa-Curta|Tila]] no futuro.
+
+#### Encontro
+- Guardas
+	- 
 ## Negociações em Alto-Mar
 [[Baragran Barba-de-Tempestade|Baragran]] vem negociar com outro senhor pirata em alto mar, [[Prahasta Agni]] um Rakshasa disfarçado. Ele traz consigo baús de tesouro e um dragão aprisionado. Ele quer informações sobre a fonte de seus sonhos. Ele revela que fez um pacto com o dragão, que finge estar preso.
+[[Prahasta Agni]] tem poderes inatos de leitura mental e manipulação, então [[Baragran Barba-de-Tempestade|Baragran]] se protege e se concentra em suas próprias ilusões para combater os poderes do corruptor. Por isso, ele depende de sua tripulação para negociar a informação que precisa.
 
+Quando ele descobre que a jovem [[Ventura]] é uma serva desse corruptor ele decide liberta-la.
+Além disso entra na negociação uma arma infernal: 
 #### Mecânica
 O senhor pirata tem uma paciência limitada. Baragran parece concentrado em outra coisa. 
 # Resolução 
