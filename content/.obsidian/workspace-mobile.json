@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
-                "mode": "preview",
+                "file": "2026-10-18.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-11"
+              "title": "2026-10-18"
             }
           }
         ],
@@ -178,7 +178,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
+            "file": "2026-10-18.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -229,8 +229,10 @@
   },
   "active": "ea7824b67ecbe3ba",
   "lastOpenFiles": [
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+    "2026-10-18.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/A Fortuna do Mar-Estilhaçado.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Prahasta Agni.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Alambrushatri.md",
@@ -254,9 +256,7 @@
     "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Licor da resistência a ácido e redução de agilidade.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Bhimzisk.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Unguento da cura enfraquecedora.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Poção da Alacridade.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Documentos",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Janjuk.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/O Castelo Afundado de Tletozuma",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/A Gruta de Serena",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Imagens",
