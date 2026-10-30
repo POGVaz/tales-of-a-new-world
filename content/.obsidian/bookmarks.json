@@ -79,6 +79,23 @@
         }
       ],
       "title": "Sessão 03/06 - Chegada nos pântanos"
+    },
+    {
+      "type": "group",
+      "ctime": 1792287297786,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1792287322954,
+          "path": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1792287331594,
+          "path": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md"
+        }
+      ],
+      "title": "Sessão 17/10 - Reviver Baragran"
     }
   ]
 }

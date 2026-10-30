@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "3b162f7b67652774",
+            "id": "1b38327653eddd64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,39 +38,31 @@
             }
           },
           {
-            "id": "3c3b9d8fe3f76d16",
+            "id": "3b162f7b67652774",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
+                "file": "2026-10-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O cerco ao Castelo Afundado"
+              "title": "2026-10-18"
             }
           },
           {
-            "id": "6cc33d54df88ce94",
+            "id": "3c5f70adeb19ad5d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
-            }
-          },
-          {
-            "id": "3e2c61742789c0dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-09-11"
             }
           }
         ],
@@ -108,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "olho de ysmet",
+                "query": "poção ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +124,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -201,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
+                "file": "2026-10-18.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -282,58 +275,58 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3c3b9d8fe3f76d16",
+  "active": "3b162f7b67652774",
   "lastOpenFiles": [
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-04-11.md",
+    "2026-10-18.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
+    "Cosmologia/Cosmologia.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Manto de Besouros.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Ichaon.md",
+    "Personagens/Taranis Lauricom.md",
+    "Personagens/Sabbar Khelvok.md",
+    "Personagens/Culcas.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Cinto de Facas-Feitiço.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-05-31.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/À procura do necromante.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/A Fortuna do Mar-Estilhaçado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cabeça Revivida de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261018002240.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cachimbo de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230539.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230534.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230411.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230348.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230344.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017225958.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017225855.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Navios/Rastro de Ouro.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/O Mar-Estilhaçado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Ilha-Prisão de Karabás.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Chapéu de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Machado de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Chicote de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Cidades/Porto-Valente/O Templo de Gharvel.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Korrak Casco-Fendido.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261013233401.png",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261013233056.png",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261013232521.png",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Manto de Besouros.md",
-    "2026-09-11.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Pérola da luz Estrelar.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Vax'Ryllis, o Barão de Enxofre.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Mangue de Achahuitl/Ilha dos Ossos Afogados.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-07.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/À procura do necromante.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Ilha dos Ossos Afogados.md",
-    "Cosmologia/Cosmologia.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Poção de Disfarce e Paralisia.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-08-28.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/A Volta ao salão dos contratos.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Tribo de Homens-Lagarto.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Janjuk.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Ichaon.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Diário de um Renegado.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Pingente da Serpente-Dragão.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Grupos/Símbolos/Servos da Serpente-Dragão - Simbolo.png",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Olho de Ysmethra.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/A Viagem da Neblina Sorridente.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Olho de Ysmetrha.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Bhimzisk.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Lago dos Vagalumes.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/A Investigação do Castelo Afundado.md",
     "Referência/Magias",
     "Referência",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Índices",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado.jpg",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/A Tumba de Kathoriom",
     "Planejamento",
     "Planejamneto",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Ilha das Lendas Perdidas",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (sem nomes).jpg",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Rota da Viagem.canvas",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Ilha das Gemas-Pão",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A encruzilhada em Porto-Valente/A encruzilhada.canvas",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Mar Estilhaçado (interrogação).jpg",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Cárcere das Marés Profundas/Mapa/Untitled.canvas",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Untitled.canvas",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Casco Petreo.png",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Pasted image 20251224142850.png",
-    "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Imagens/Pasted image 20251224142850.png",
     "RPG/Untitled.canvas"
   ]
 }
