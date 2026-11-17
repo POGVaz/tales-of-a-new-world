@@ -75,8 +75,15 @@ O objetivo é salvar tanto jovem [[Baragran Barba-de-Tempestade|Baragran]] no pa
 		- ![[Pasted image 20261017225958.png]]
 	- Executor
 		- ![[Pasted image 20261017230539.png]]
+### Resolução
+Em ambas as memórias, os navios fogem pela mesma rota: um pequeno córrego no continente de **Kaldoran**, estreito como uma estrada e raso como uma poça.
+No passado, [[Darius Corvamar]] presenteia [[Baragran Barba-de-Tempestade|Baragran]] com seu próprio chapéu, que ele vai usar até o final.
+No futuro, [[Tila Brisa-Curta|Tila]] revela a razão de sua captura: um mapa muito bem escondido.
+> Eu nunca mais consegui esquecer esse dia... A partir daí, meus pés nunca mais souberam o caminho de casa. Mesmo agora, eles só apontam para aquele navio: a [[Fúria do Horizonte]]; posso juntar que sei onde ele está e como chegar lá.
+> Foi a partir desse dia que eu soube onde estava minha lealdade.
+> -- [[Tila Brisa-Curta]]
 ## 3 - Negociações em Alto-Mar
-[[Baragran Barba-de-Tempestade|Baragran]] vem negociar com outro senhor pirata em alto mar, [[Prahasta Agni]] um Rakshasa disfarçado. Ele traz consigo baús de tesouro e um dragão aprisionado. Ele quer informações sobre a fonte de seus sonhos. Ele revela que fez um pacto com o dragão, que finge estar preso.
+[[Baragran Barba-de-Tempestade|Baragran]] vem negociar com outro senhor pirata em alto mar, [[Prahasta Agni]] um Rakshasa disfarçado. [[Baragran Barba-de-Tempestade|Baragran]] traz consigo baús de tesouro e uma dragão aprisionada e quer informações sobre a fonte de seus sonhos. Ele revela que fez um pacto com a dragão, que finge estar presa.
 [[Prahasta Agni]] tem poderes inatos de leitura mental e manipulação, então [[Baragran Barba-de-Tempestade|Baragran]] se protege e se concentra em suas próprias ilusões para combater os poderes do corruptor. Por isso, ele depende de sua tripulação para negociar a informação que precisa. O dragão também precisa de mais informações sobre os planos e contatos de [[Prahasta Agni]] para frustar completamente seus planos.
 
 Quando ele descobre que a jovem [[Ventura]] é uma serva desse corruptor ele decide liberta-la.

@@ -1,3 +1,7 @@
+---
+aliases:
+  - Darius
+---
 Humano
 Pirata
 

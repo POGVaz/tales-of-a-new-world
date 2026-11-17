@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Prahasta Agni.md",
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Alambrushatri.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prahasta Agni"
+              "title": "Alambrushatri"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cabeça Revivida de Baragran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sonhos de um Pirata Morto"
+              "title": "Cabeça Revivida de Baragran"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O cerco ao Castelo Afundado"
+              "title": "Baragran Barba-de-Tempestade"
             }
           },
           {
@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "2026-10-18"
             }
+          },
+          {
+            "id": "2a79bd4d3ab39a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sonhos de um Pirata Morto"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Prahasta Agni.md",
+            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cabeça Revivida de Baragran.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,7 +192,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2026-10-18.md",
+            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -227,35 +241,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ea7824b67ecbe3ba",
+  "active": "2a79bd4d3ab39a21",
   "lastOpenFiles": [
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/O Mar-Estilhaçado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cabeça Revivida de Baragran.md",
+    "Cosmologia/Planos de Existência/Limbo.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Varric Holst.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Alambrushatri.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Prahasta Agni.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
     "2026-10-18.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
+    "Personagens/Taranis Lauricom.md",
+    "Personagens/Gurum Escamarela.md",
+    "Personagens/Culcas.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Darius Corvamar.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/A Fortuna do Mar-Estilhaçado.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Prahasta Agni.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Alambrushatri.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Darius Corvamar.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Tharûn Quebra-Onda.md",
-    "Cosmologia/Planos de Existência/Limbo.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/À procura do necromante.md",
     "Cosmologia/Planos de Existência",
     "Discussões/Cosmologia.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Grupos/Tripulação de Baragran.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Segredos Submersos/Segredos Submersos.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Segredos Submersos/Korrum Casco-Lascado.md",
-    "Personagens/Culcas.md",
-    "Personagens/Gurum Escamarela.md",
     "Personagens/Sabbar Khelvok.md",
-    "Personagens/Taranis Lauricom.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Rumores.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl/Antigos Campos de Batalha.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Hugo.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Licor da resistência a ácido e redução de agilidade.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Bhimzisk.md",
-    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Consumíveis/Unguento da cura enfraquecedora.md",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Documentos",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/O Castelo Afundado de Tletozuma",
     "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/A Gruta de Serena",
