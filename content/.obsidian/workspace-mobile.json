@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "33ee6a165c9bf526",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7eb058a69c06b03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27a9a86dc725a94e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Alambrushatri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alambrushatri"
+            }
+          },
+          {
+            "id": "bbf7b50a48ea59bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cabeça Revivida de Baragran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cabeça Revivida de Baragran"
+            }
+          },
+          {
+            "id": "f8c3392ded39afe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baragran Barba-de-Tempestade"
+            }
+          },
+          {
+            "id": "ea7824b67ecbe3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-18"
+            }
+          },
+          {
+            "id": "2a79bd4d3ab39a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sonhos de um Pirata Morto"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a87b7ccea3210088",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a45450986f55e562",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de arquivos"
+        }
+      },
+      {
+        "id": "abc5ce4a5951035c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Tucano",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "5a2068ae1cb089fc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2f64348944211b5d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c6ded3bd5820286f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3a215fd971220e16",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cabeça Revivida de Baragran.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Links inversos"
+        }
+      },
+      {
+        "id": "f110efcb421b9778",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "be135059c00488be",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Sumário"
+        }
+      },
+      {
+        "id": "84f740b11a4f2545",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "initiative-tracker-view"
+        }
+      },
+      {
+        "id": "3106ec97de7f6ae6",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "2a79bd4d3ab39a21",
+  "lastOpenFiles": [
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/O Mar-Estilhaçado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cabeça Revivida de Baragran.md",
+    "Cosmologia/Planos de Existência/Limbo.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Varric Holst.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Alambrushatri.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Prahasta Agni.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+    "2026-10-18.md",
+    "Personagens/Taranis Lauricom.md",
+    "Personagens/Gurum Escamarela.md",
+    "Personagens/Culcas.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Darius Corvamar.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/A Fortuna do Mar-Estilhaçado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Prahasta Agni.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Alambrushatri.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Darius Corvamar.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Tharûn Quebra-Onda.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/À procura do necromante.md",
+    "Cosmologia/Planos de Existência",
+    "Discussões/Cosmologia.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Grupos/Tripulação de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Segredos Submersos/Segredos Submersos.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Segredos Submersos/Korrum Casco-Lascado.md",
+    "Personagens/Sabbar Khelvok.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Documentos",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/O Castelo Afundado de Tletozuma",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/A Gruta de Serena",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Imagens",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Ilha dos Ossos Afogados",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Mangue de Achahuitl",
+    "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado/Lugares",
+    "RPG/Novo Mundo/Campanhas/A Fortuna do Mar-Estilhaçado",
+    "RPG/Novo Mundo/Campanhas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Rota da Viagem.canvas"
+  ]
+}

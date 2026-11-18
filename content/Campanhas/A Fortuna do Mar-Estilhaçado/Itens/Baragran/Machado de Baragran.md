@@ -1,0 +1,1 @@
+Machado que pertenceu ao famoso pirata [[Baragran Barba-de-Tempestade]]

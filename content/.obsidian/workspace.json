@@ -1,0 +1,332 @@
+{
+  "main": {
+    "id": "f9f71577f73e705e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7449ddcd215a623d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ca0962dd3323a2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/O Mar-Estilhaçado.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "O Mar-Estilhaçado"
+            }
+          },
+          {
+            "id": "1b38327653eddd64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sonhos de um Pirata Morto"
+            }
+          },
+          {
+            "id": "3b162f7b67652774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-18"
+            }
+          },
+          {
+            "id": "3c5f70adeb19ad5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-11"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa24b400170d34d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c216177697b7c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5395695e8a7b1d40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e7ce2b3ac042885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "poção ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d73fb1a83be5d8fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "b30314ec8c6c4fbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f761ec238ebc2b4",
+        "type": "tabs",
+        "dimension": 59.17553191489362,
+        "children": [
+          {
+            "id": "46e2cc098fb152f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-09-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4fdaa874c32e9777",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Vax'Ryllis, o Hálito de Enxofre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vax'Ryllis, o Hálito de Enxofre"
+            }
+          },
+          {
+            "id": "efe2c4b8ca544bd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59588d6e9c49bc04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-10-18.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "feed0911f53a830d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "d34aad03cbd54200",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4f05d99a932d98c",
+        "type": "tabs",
+        "dimension": 40.82446808510639,
+        "children": [
+          {
+            "id": "bad06ef524ea2162",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
+            }
+          },
+          {
+            "id": "fb7f962ba94cf793",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-creature-view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "3b162f7b67652774",
+  "lastOpenFiles": [
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-09-11.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-04-11.md",
+    "2026-10-18.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Sonhos de um Pirata Morto.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/O cerco ao Castelo Afundado.md",
+    "Cosmologia/Cosmologia.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Manto de Besouros.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Ichaon.md",
+    "Personagens/Taranis Lauricom.md",
+    "Personagens/Sabbar Khelvok.md",
+    "Personagens/Culcas.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Cinto de Facas-Feitiço.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Diário/2026-05-31.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/À procura do necromante.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Baragran Barba-de-Tempestade.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/A Fortuna do Mar-Estilhaçado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cabeça Revivida de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261018002240.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Cachimbo de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230539.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230534.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230411.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230348.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017230344.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017225958.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261017225855.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Navios/Rastro de Ouro.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/O Mar-Estilhaçado.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Ilha-Prisão de Karabás.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Chapéu de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Machado de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran/Chicote de Baragran.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Cidades/Porto-Valente/O Templo de Gharvel.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Pessoas/Korrak Casco-Fendido.md",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Itens/Baragran",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261013233401.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos/Pasted image 20261013233056.png",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/Mangue de Achahuitl/Anexos",
+    "Referência/Magias",
+    "Referência",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Lugares/Mangue de Achahuitl",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Índices",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/A Tumba de Kathoriom",
+    "Planejamento",
+    "Planejamneto",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Ilha das Lendas Perdidas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A viagem a Ventamar/Rota da Viagem.canvas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Histórias/A encruzilhada em Porto-Valente/A encruzilhada.canvas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Calabouços/Cárcere das Marés Profundas/Mapa/Untitled.canvas",
+    "Campanhas/A Fortuna do Mar-Estilhaçado/Untitled.canvas",
+    "RPG/Untitled.canvas"
+  ]
+}

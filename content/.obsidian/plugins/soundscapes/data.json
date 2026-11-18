@@ -1,0 +1,31 @@
+{
+  "soundscape": "CUSTOM_c7f33db9-053c-4302-91d6-a546c8893568",
+  "volume": 15,
+  "autoplay": false,
+  "scrollSongTitle": false,
+  "customSoundscapes": [
+    {
+      "id": "c7f33db9-053c-4302-91d6-a546c8893568",
+      "name": "Músicas do Mar",
+      "tracks": [
+        {
+          "name": "Viagens no Oceano",
+          "id": "LO3qLkzjg3w"
+        },
+        {
+          "name": "Taverna",
+          "id": "O2U1mkoZyu0"
+        },
+        {
+          "name": "Épico",
+          "id": "lYwu5NYQD3g"
+        }
+      ]
+    }
+  ],
+  "myMusicIndex": [],
+  "myMusicFolderPath": "",
+  "reindexFrequency": "5",
+  "myMusicShuffle": false,
+  "currentTrackIndex": 0
+}

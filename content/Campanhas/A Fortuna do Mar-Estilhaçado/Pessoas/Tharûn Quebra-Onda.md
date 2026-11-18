@@ -1,3 +1,7 @@
+---
+aliases:
+  - Tharûn
+---
 **Espécie:** Golias  
 **Classe:** Feiticeiro (tempestade / mar)  
 **Função:** Primeiro oficial, disciplina, combate

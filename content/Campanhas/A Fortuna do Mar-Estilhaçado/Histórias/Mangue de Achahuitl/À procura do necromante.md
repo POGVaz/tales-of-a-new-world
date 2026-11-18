@@ -12,9 +12,9 @@ Ao anoitecer eles avistam uma cabana no topo de uma colina. Não conseguem ver, 
 
 O Fogo Fatuo lidera cavaleiros mortos-vivos através do canal, mas o elemental de água de [[Saeliri Kōmori]] protege a casa. Um deles e seu cavalo são destruídos pelas águas assim que o grupo os vêem.
 ## Poções de [[Saeliri Kōmori|Saeliri]]
-- Licor da resistência a ácido e redução (1h) de dextreza (-1d4 de DEX)
-- Poção da Alacridade (+1d8 na iniciativa por 8h) e dano (2d4 de veneno)
-- Unguento da cura (2d4+2) enfraquecedora (-1d4 de FOR)
+- ![[Licor da resistência a ácido e redução de agilidade]]
+- ![[Poção da Alacridade]]
+- ![[Unguento da cura enfraquecedora]]
 
 # O Reencontro com [[Serena do Lodo|Serena]]
 ## No caminho para as [[Fontes Termais]]

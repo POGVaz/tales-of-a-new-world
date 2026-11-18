@@ -1,0 +1,1 @@
+Antigo navio [[Llajtetl|Llajtês]] saqueado por [[Baragran Barba-de-Tempestade]].
