@@ -21,7 +21,7 @@ Você pode conjurar a magia [Falar com os Mortos](https://dnd2024.wikidot.com/sp
 ### Fúria do Horizonte
 *3 Cargas*
 [[Baragran Barba-de-Tempestade|Baragran]] revive as inúmeras vezes que seu lendário navio atacou outros barcos e saqueou portos. Seja um bombardeio de flechas e virotes, um assalto de seus marujos com espadas na mão ou a própria [[Fúria do Horizonte]] abalroando uma embarcação.
-A criatura escolhe uma área em até 36m e um tipo de dano entre: Cortant, Perfurante ou de Concussão. Essa área pode ter até 6m de comprimento, 6m de largura e 6m de altura. Cada criatura na área deve realizar um teste de Destreza, em uma falha ela sofre 4d8 do dano escolhido ou metade em um sucesso.
+A criatura escolhe uma área em até 36m e um tipo de dano entre: Cortante, Perfurante ou de Concussão. Essa área pode ter até 6m de comprimento, 6m de largura e 6m de altura. Cada criatura na área deve realizar um teste de Destreza, em uma falha ela sofre 4d8 do dano escolhido ou metade em um sucesso.
 ### Conflagração de Alambrushatri
 *3 Cargas*
 A Cabeça de [[Baragran Barba-de-Tempestade|Baragran]] invoca as lendas de como o pirata sobreviveu às chamas de dragão em Alto-Mar.
@@ -36,6 +36,7 @@ A parede e a passagem duram 10 minutos ou enquanto a cabeça manter concentraç�
 ## Antigos pertences de Baragran
 Quanto mais itens que pertenciam ao pirata reunirem de volta, mais opções o usuário tem e mais cargas a cabeça vai ter.
 
+ **(Ideias)**
 ### [[Machado de Baragran]]
 Volta para a mão depois de arremessado (normalmente)
 Golpe do Vento de Aço (Cabeça)
